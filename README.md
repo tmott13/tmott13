@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome to my slice of GitHub 👋🏻
 
-<!--
-**tmott13/tmott13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hi everyone! My name is Tanya and I'm a front end focused software engineer specializing in Angular! I currently work for MyCarrier which is a start up located in Scottsdale, AZ. I've been in the industry for almost 10 years now! 
+</p>
 
-Here are some ideas to get you started:
+- 💻 I'm currently working on Hacktoberfest 2024
+- 🦋 I'm continuing to grow my skills as a front end engineer specializing in Angular
+- 💬 Ask me about front end development
+- 📫 How to reach me: tanyamott.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Fun Facts:</p>
+
+- 🎓 KSU Alum
+- 🐶 Dog mom x2
+- 🏀 I love basketball & the Atlanta Hawks
+- 🏈 I love sports
+- 🏋🏼‍♀️ I love going to the gym
+- 💚 I'm a lefty
+
