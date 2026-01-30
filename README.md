@@ -1,6 +1,6 @@
 ## Welcome to my slice of GitHub 👋🏻
 
-<p>Hi everyone! My name is Tanya and I'm a front end focused software engineer specializing in Angular! I currently work for MyCarrier which is a start up located in Scottsdale, AZ. I've been in the industry for almost 10 years now! 
+<p>Hi everyone! My name is Tanya and I'm a front end focused software engineer specializing in Angular! I currently work for MyCarrier which is a start up located in Scottsdale, AZ. I've been in the industry for almost 11 years now! 
 </p>
 
 - 💻 I'm currently working on learning AI and using tools like ChatGPT, Claude, Gemini, and Grok
