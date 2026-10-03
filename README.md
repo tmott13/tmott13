@@ -1,19 +1,24 @@
 ## Welcome to my slice of GitHub 👋🏻
 
-<p>Hi everyone! My name is Tanya and I'm a front end focused software engineer specializing in Angular! I currently work for MyCarrier which is a start up located in Scottsdale, AZ. I've been in the industry for almost 11 years now! 
-</p>
+Hi everyone! My name is Tanya and I'm a frontend software engineer specializing in modern Angular, enterprise web platforms, and design systems. I've been engineering for 11 years and currently build freight logistics platforms at MyCarrier.
 
-- 💻 I'm currently working on learning AI and using tools like ChatGPT, Claude, Gemini, and Grok
-- 🦋 I'm continuing to grow my skills as a front end engineer specializing in Angular
-- 💬 Ask me about front end development
-- 📫 How to reach me: tanyamott.com
+### 🚀 Latest Project: Portfolio Rewrite (Angular 12 → 22)
 
-<p>Fun Facts:</p>
+Ground-up rewrite of [tanyamott.com](https://tanyamott.com/), jumping ten major framework versions directly from **Angular 12 to Angular 22**.
 
+- **Stack:** Angular 22, TypeScript, Signals, Standalone Components, Custom SVGs, Tailwind
+- **Key Upgrades:** Signal-first state, native control flow (`@if`/`@for`), zero `NgModule` ceremony, handcrafted SVG scaling
+- **Case Study:** [Read the full migration writeup on DEV.to](https://dev.to/tmott13/why-i-finally-rebuilt-my-portfolio-in-angular-22-and-what-jumping-from-angular-12-taught-me-507j)
+
+---
+
+- 💻 Integrating AI-accelerated workflows with GitHub Copilot, Claude, and Gemini
+- 💬 Ask me about modern Angular architectures, Signals, and enterprise design tokens
+- 📫 Connect with me: [tanyamott.com](https://tanyamott.com/)
+
+#### Fun Facts:
 - 🎓 KSU Alum
-- 🐶 Dog mom x2
-- 🏀 I love basketball & the Atlanta Hawks
-- 🏈 I love sports
-- 🏋🏼‍♀️ I love going to the gym
-- 💚 I'm a lefty
-
+- 🐶 Dog mom ×2
+- 🏀 Atlanta sports fan (Hawks & Falcons)
+- 🏋🏼‍♀️ Dedicated gym goer
+- 💚 Proud lefty
