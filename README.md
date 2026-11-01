@@ -10,7 +10,7 @@ Hi everyone! My name is Tanya and I'm a frontend software engineer specializing 
 ![Stickers](https://img.shields.io/badge/stickers-21-brightgreen?style=for-the-badge)
 ![Gemma](https://img.shields.io/badge/built%20with-Gemma-4285F4?style=for-the-badge)
 
-This October I shipped five open-source apps, all Angular, most running Gemma right in the browser:
+This October I shipped five open-source apps, all Angular, running Gemma right in the browser:
 
 | App | What it does | Links |
 |---|---|---|
