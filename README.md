@@ -14,7 +14,7 @@ This October I shipped five open-source apps, all Angular, running Gemma right i
 
 | App | What it does | Links |
 |---|---|---|
-| 🍽️ Let's Not Be Hangry | Meal nudges for my boyfriend, who forgets to eat | [Live](https://lets-not-be-hangry.onrender.com) · [Code](https://github.com/tmott13/lets-not-be-hangry) · [Post](https://dev.to/tmott13/lets-not-be-hangry-an-open-model-app-for-my-boyfriend-who-forgets-to-eat-18e7) |
+| 🥪 Let's Not Be Hangry | Meal nudges for my boyfriend, who forgets to eat | [Live](https://lets-not-be-hangry.onrender.com) · [Code](https://github.com/tmott13/lets-not-be-hangry) · [Post](https://dev.to/tmott13/lets-not-be-hangry-an-open-model-app-for-my-boyfriend-who-forgets-to-eat-18e7) |
 | 🥾 Off-Grid Trails | A trail finder that works when the bars are gone | [Live](https://off-grid-trails.onrender.com/) · [Code](https://github.com/tmott13/off-grid-trails) · [Post](https://dev.to/tmott13/off-grid-trails-a-trail-finder-that-still-works-when-the-bars-are-gone-3cl9) |
 | 🌊 Ripple | One blog post, every social platform, written by Gemma | [Live](https://ripple-nxxz.onrender.com) · [Code](https://github.com/tmott13/ripple) · [Post](https://dev.to/tmott13/ripple-one-blog-post-every-social-platform-written-by-gemma-in-your-browser-4eni) |
 | 🦥 Bookmark Buddy | Gemma tidies your messy bookmarks (722 sorted in 15 min) | [Live](https://bookmark-buddy.onrender.com) · [Code](https://github.com/tmott13/bookmark-buddy) · [Post](https://dev.to/tmott13/bookmark-buddy-gemma-tidies-your-messy-bookmarks-while-you-put-your-feet-up-3ebb) |
